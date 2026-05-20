@@ -1,7 +1,7 @@
 const trip = {
     destination: "Tokio",
-    departureDate: new Date("2026-10-14T10:00:00"),
-    bookingDate: new Date("2026-01-01T00:00:00"),
+    departureDate: new Date("2026-10-27T00:00:00"),
+    bookingDate: new Date("2026-05-19T00:00:00"),
     checklist: [
       { text: "Reisepass", done: true },
       { text: "Flugticket", done: true },
