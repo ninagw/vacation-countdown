@@ -13,28 +13,6 @@ The app displays:
 
 ---
 
-## 📸 Preview
-
-```text
-✈️ Japan 2026
-Tokyo • October 14, 2026
-
-127 Days
-04:23:12 remaining
-
-████████████░░░░ 72%
-
-🎒 Packing List
-☑ Passport
-☑ Flight Tickets
-☐ Power Adapter
-☐ Camera
-
-💬 "The adventure is getting closer every day."
-```
-
----
-
 ## Features
 
 ### Countdown Timer
@@ -162,16 +140,6 @@ const trip = {
 ```
 ---
 
-## Customization Ideas
-
-* Add a background image of your destination
-* Implement dark mode
-* Save settings with `localStorage`
-* Show weather data using an API
-* Support multiple trips
-
----
-
 ## Deploy Online
 
 You can host the app for free using:
@@ -206,6 +174,6 @@ Built as a small coding project to create a practical app that builds anticipati
 
 ## Author
 
-Created by *Your Name*.
+Created by Nina Weber.
 
 If you found this project useful, consider starring the repository on GitHub.
