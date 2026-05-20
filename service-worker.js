@@ -2,7 +2,7 @@ const CACHE_NAME = "trip-countdown-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
-  "/style.css",
+  "/styles.css",
   "/app.js",
   "/manifest.json"
 ];
